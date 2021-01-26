@@ -1,0 +1,6 @@
+19:13:18.880 [TestNG-tests-2] INFO  academy.HomepageTest - Landed on login page for 2 nd test case
+19:13:21.022 [TestNG-tests-2] INFO  academy.HomepageTest - Driver closed for 2nd test case class
+19:15:40.863 [TestNG-tests-1] INFO  academy.HomepageTest - Driver Initialised
+19:15:40.863 [TestNG-tests-2] INFO  academy.HomepageTest - Driver initialised for 2 nd test case class
+19:16:09.115 [TestNG-tests-1] INFO  academy.HomepageTest - Url launched
+19:16:09.273 [TestNG-tests-2] INFO  academy.HomepageTest - Url launched for 2 nd test case

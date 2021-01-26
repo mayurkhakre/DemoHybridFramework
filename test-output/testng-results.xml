@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="167737" started-at="2020-12-20T17:11:55Z" finished-at="2020-12-20T17:14:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="167737" started-at="2020-12-20T17:11:55Z" finished-at="2020-12-20T17:14:43Z">
+      <class name="academy.LandingpageTest">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:academy.LandingpageTest@69453e37]" name="initialise" is-config="true" duration-ms="166319" started-at="2020-12-20T17:11:55Z" finished-at="2020-12-20T17:14:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="LandingPageNavigationBar()[pri:0, instance:academy.LandingpageTest@69453e37]" name="LandingPageNavigationBar" duration-ms="754" started-at="2020-12-20T17:14:41Z" finished-at="2020-12-20T17:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LandingPageNavigationBar -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:academy.LandingpageTest@69453e37]" name="tearDown" is-config="true" duration-ms="557" started-at="2020-12-20T17:14:42Z" finished-at="2020-12-20T17:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- academy.LandingpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

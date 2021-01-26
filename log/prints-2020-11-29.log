@@ -1,0 +1,5 @@
+10:22:52.563 [TestNG-tests-1] INFO  academy.LandingpageTest - LandingPage page NavigationBar test case passed
+10:22:54.027 [TestNG-tests-1] INFO  academy.LandingpageTest - Driver closed for Landing Page  class
+10:23:00.737 [TestNG-tests-2] INFO  academy.LandingpageTest - Login page title test case passed
+10:23:00.784 [TestNG-tests-2] INFO  academy.LandingpageTest - Login page text test case passed
+10:23:00.820 [TestNG-tests-2] INFO  academy.LandingpageTest - Driver closed for Login Page class

@@ -1,0 +1,6 @@
+22:41:30.389 [main] INFO  academy.LandingpageTest - running landing page Center text test case
+22:41:31.079 [main] INFO  academy.LandingpageTest - LandingPage page CenterText test case passed
+22:41:31.856 [main] INFO  academy.LandingpageTest - Driver closed for Landing Page  class
+22:42:03.844 [main] INFO  academy.LandingpageTest - Driver Initialised for Landing page
+22:44:41.879 [main] INFO  academy.LandingpageTest - Url launched for Landing Page Test Cases
+22:44:42.031 [main] INFO  academy.LandingpageTest - running landing page Navigation bar test case

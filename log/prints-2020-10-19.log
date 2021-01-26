@@ -1,0 +1,7 @@
+22:30:11.740 [main] INFO  academy.HomepageTest - Driver closed for 2nd test case class
+22:32:58.180 [main] INFO  academy.HomepageTest - Driver Initialised
+22:33:18.364 [main] INFO  academy.HomepageTest - Url launched
+22:33:24.969 [main] INFO  academy.HomepageTest - Driver initialised for 2 nd test case class
+22:33:41.639 [main] INFO  academy.HomepageTest - Url launched for 2 nd test case
+22:33:43.720 [main] INFO  academy.HomepageTest - Navigation bar test case passed
+22:33:48.697 [main] INFO  academy.HomepageTest - Landed on login page for 2 nd test case

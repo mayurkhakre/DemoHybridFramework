@@ -1,0 +1,5 @@
+17:39:58.443 [TestNG-tests-1] INFO  academy.LandingpageTest - running landing page Center text test case
+17:39:59.460 [TestNG-tests-1] INFO  academy.LandingpageTest - LandingPage page CenterText test case passed
+17:39:59.477 [TestNG-tests-1] INFO  academy.LandingpageTest - running landing page Navigation bar test case
+17:40:00.142 [TestNG-tests-1] INFO  academy.LandingpageTest - LandingPage page NavigationBar test case passed
+17:40:00.650 [TestNG-tests-1] INFO  academy.LandingpageTest - Driver closed for Landing Page  class

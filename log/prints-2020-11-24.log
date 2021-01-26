@@ -1,0 +1,5 @@
+18:42:14.708 [TestNG-tests-2] INFO  academy.LandingpageTest - Login page text test case passed
+18:42:16.093 [TestNG-tests-1] INFO  academy.LandingpageTest - Url launched for Landing Page Test Cases
+18:42:16.094 [TestNG-tests-1] INFO  academy.LandingpageTest - running landing page Center text test case
+18:42:16.189 [TestNG-tests-1] INFO  academy.LandingpageTest - LandingPage page CenterText test case passed
+18:42:16.191 [TestNG-tests-1] INFO  academy.LandingpageTest - running landing page Navigation bar test case

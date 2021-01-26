@@ -1,0 +1,5 @@
+20:40:54.579 [TestNG-tests-1] INFO  academy.LandingpageTest - LandingPage page NavigationBar test case passed
+20:40:55.926 [TestNG-tests-1] INFO  academy.LandingpageTest - Driver closed for Landing Page  class
+20:40:58.391 [TestNG-tests-2] INFO  resources.RetryAnalyzer - Retrying failed test case for count 0
+20:41:08.537 [TestNG-tests-2] INFO  resources.RetryAnalyzer - Retrying failed test case for count 1
+20:41:18.560 [TestNG-tests-2] INFO  resources.RetryAnalyzer - Retrying failed test case for count 2
